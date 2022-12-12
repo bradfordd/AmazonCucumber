@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="7.207">
+    <testcase classname="Testing Amazon search functionality" name="Check can search on Amazon storefront and get relevant results" time="7.093">
+        <system-out><![CDATA[Given user is on Amazon Homepage............................................passed
+When user searches for a type of item in the amazon searchbar...............passed
+And user presses enter......................................................passed
+Then user is navigated to page containing search results....................passed
+]]></system-out>
+    </testcase>
+</testsuite>
